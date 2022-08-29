@@ -1,0 +1,17 @@
+export const IMAGES = {
+  LOGO: require('./logo.png'),
+  ACTIVE_ARCHIVE: require('./activeArchive.png'),
+  ACTIVE_FAV: require('./activeFav.png'),
+  ACTIVE_HOME: require('./activeHome.png'),
+  ARCHIVE: require('./archive.png'),
+  DISLIKE: require('./dislike.png'),
+  FAV: require('./fav.png'),
+  HOME: require('./home.png'),
+  LIKE: require('./like.png'),
+  LOTTIE: require('./lottie.json'),
+  ASCENDING: require('./ascending.png'),
+  ASCENDING_ACTIVE: require('./ascendingInactive.png'),
+  DESCENDING: require('./descending.png'),
+  DESCENDING_ACTIVE: require('./descendingInactive.png'),
+  BLUR: require('./blur4.png'),
+};
